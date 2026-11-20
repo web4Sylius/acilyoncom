@@ -1,6 +1,12 @@
 <?php /* Static Name: Footer text */ ?>
 <div id="footer-text" class="footer-text">
 	<?php $myfooter_text = apply_filters( 'cherry_text_translate', of_get_option('footer_text'), 'footer_text' ); ?>
+	<?php
+	// Année de fin du copyright dynamique : "2004 - 2020" -> "2004 - <année en cours>".
+	if ( $myfooter_text ) {
+		$myfooter_text = preg_replace( '/((?:19|20)\d{2})(\s*[-–]\s*)(?:19|20)\d{2}/u', '${1}${2}' . wp_date( 'Y' ), $myfooter_text, 1 );
+	}
+	?>
 
 	<?php if($myfooter_text){?>
 		<?php echo $myfooter_text; ?>

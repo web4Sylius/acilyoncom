@@ -1,0 +1,349 @@
+# Translation of Plugins - LukasApps CAPTCHA tools for Contact Form 7 - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - LukasApps CAPTCHA tools for Contact Form 7 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-09-03 23:06:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - LukasApps CAPTCHA tools for Contact Form 7 - Stable (latest release)\n"
+
+#: includes/stats.php:97
+msgid "Statistics have been reset successfully."
+msgstr "Statistics have been reset successfully."
+
+#: includes/admin-turnstile.php:90
+msgid "Default appearance is always, for execute or interaction-only use shortcode:"
+msgstr "Default appearance is always, for execute or interaction-only use shortcode:"
+
+#: includes/admin-turnstile.php:83
+msgid "Default size of CAPTCHA is normal, for compact or flexible use shortcode:"
+msgstr "Default size of CAPTCHA is normal, for compact or flexible use shortcode:"
+
+#: includes/admin-turnstile.php:60
+msgid "Force CAPTCHA to render in a specific language."
+msgstr "Force CAPTCHA to render in a specific language."
+
+#: includes/admin-turnstile.php:41
+msgid "Cloudflare Turnstile CAPTCHA will not work unless you set up the configuration below"
+msgstr "Cloudflare Turnstile CAPTCHA will not work unless you set up the configuration below"
+
+#: includes/admin-stats.php:156
+msgid "Unlock All Pro Features Now"
+msgstr "Unlock All Pro Features Now"
+
+#: includes/admin-stats.php:148
+msgid "Lazy-loading for speed"
+msgstr "Lazy-loading for speed"
+
+#: includes/admin-stats.php:147
+msgid "Custom redirect URLs"
+msgstr "Custom redirect URLs"
+
+#: includes/admin-stats.php:146
+msgid "Auto-responsive CAPTCHA"
+msgstr "Auto-responsive CAPTCHA"
+
+#: includes/admin-stats.php:143
+msgid "Smart Features"
+msgstr "Smart Features"
+
+#: includes/admin-stats.php:138
+msgid "Export to CSV, Excel, or JSON"
+msgstr "Export to CSV, Excel, or JSON"
+
+#: includes/admin-stats.php:137
+msgid "Track abandoned forms"
+msgstr "Track abandoned forms"
+
+#: includes/admin-stats.php:136
+msgid "Real-time data capture as users type"
+msgstr "Real-time data capture as users type"
+
+#: includes/admin-stats.php:134
+msgid "Capture form data in real-time, even before users submit."
+msgstr "Capture form data in real-time, even before users submit."
+
+#: includes/admin-stats.php:133
+msgid "Lead Recovery System"
+msgstr "Lead Recovery System"
+
+#: includes/admin-stats.php:128
+msgid "Mailchimp & Twilio SMS"
+msgstr "Mailchimp & Twilio SMS"
+
+#: includes/admin-stats.php:127
+msgid "Sync leads directly to HubSpot, Salesforce, GoHighLevel, or Zoho CRM."
+msgstr "Sync leads directly to HubSpot, Salesforce, GoHighLevel, or Zoho CRM."
+
+#: includes/admin-stats.php:126
+msgid "Connect instantly to Zapier, Make.com (Integromat), or Pabbly to reach thousands of apps."
+msgstr "Connect instantly to Zapier, Make.com (Integromat), or Pabbly to reach thousands of apps."
+
+#: includes/admin-stats.php:125
+msgid "Database storage for all leads"
+msgstr "Database storage for all leads"
+
+#: includes/admin-stats.php:123
+msgid "Connect your forms to any tool and automate workflows."
+msgstr "Connect your forms to any tool and automate workflows."
+
+#: includes/admin-stats.php:122
+msgid "Powerful Integrations"
+msgstr "Powerful Integrations"
+
+#: includes/admin-stats.php:117
+msgid "Geographic & IP filtering"
+msgstr "Geographic & IP filtering"
+
+#: includes/admin-stats.php:116
+msgid "Rate and Time Limit Verification"
+msgstr "Rate and Time Limit Verification"
+
+#: includes/admin-stats.php:115
+msgid "Advanced honeypot"
+msgstr "Advanced honeypot"
+
+#: includes/admin-stats.php:114
+msgid "3 CAPTCHA systems (reCAPTCHA, hCaptcha, Turnstile)"
+msgstr "3 CAPTCHA systems (reCAPTCHA, hCaptcha, Turnstile)"
+
+#: includes/admin-stats.php:112
+msgid "Block 99.9% of spam with 6 intelligent protection methods."
+msgstr "Block 99.9% of spam with 6 intelligent protection methods."
+
+#: includes/admin-stats.php:104
+msgid "Stop spam completely, recover abandoned leads, and automate your workflows."
+msgstr "Stop spam completely, recover abandoned leads, and automate your workflows."
+
+#: includes/admin-stats.php:101
+msgid "Unlock the Full Power of CF7 Captcha Pro"
+msgstr "Unlock the Full Power of CF7 Captcha Pro"
+
+#: includes/admin-stats.php:90
+msgid "Reset Statistics"
+msgstr "Reset Statistics"
+
+#: includes/admin-stats.php:88
+msgid "Are you sure you want to reset all statistics? This cannot be undone."
+msgstr "Are you sure you want to reset all statistics? This cannot be undone."
+
+#: includes/admin-stats.php:77
+msgid "Cloudflare Turnstile"
+msgstr "Cloudflare Turnstile"
+
+#: includes/admin-stats.php:70
+msgid "hCaptcha"
+msgstr "hCaptcha"
+
+#: includes/admin-stats.php:63
+msgid "Google reCAPTCHA V3"
+msgstr "Google reCAPTCHA V3"
+
+#: includes/admin-stats.php:56
+msgid "Google reCAPTCHA V2"
+msgstr "Google reCAPTCHA V2"
+
+#: includes/admin-stats.php:51
+msgid "Blocked by CAPTCHA Type"
+msgstr "Blocked by CAPTCHA Type"
+
+#: includes/admin-stats.php:45
+msgid "Blocked This Month"
+msgstr "Blocked This Month"
+
+#: includes/admin-stats.php:35
+msgid "Blocked Today"
+msgstr "Blocked Today"
+
+#: includes/admin-stats.php:25
+msgid "Total Spam Blocked"
+msgstr "Total Spam Blocked"
+
+#: includes/admin-stats.php:15
+msgid "Spam Protection Statistics"
+msgstr "Spam Protection Statistics"
+
+#: includes/admin-recaptcha-v3.php:83 includes/admin-recaptcha.php:101
+msgid "Choose:"
+msgstr "Choose:"
+
+#: includes/admin-recaptcha-v3.php:55
+msgid "0.0 is very likely a bot, 1.0 is very likely a human. Recommended: 0.5"
+msgstr "0.0 is very likely a bot, 1.0 is very likely a human. Recommended: 0.5"
+
+#: contact-form-7-simple-recaptcha.php:135
+msgid "Added Google reCAPTCHA v3 Invisible, Submission Insights and Spam Protection Statistics!"
+msgstr "Added Google reCAPTCHA v3 Invisible, Submission Insights and Spam Protection Statistics!"
+
+#. Description of the plugin
+#: contact-form-7-simple-recaptcha.php
+msgid "Add reCAPTCHA V2, hCAPTCHA or Cloudflare Turnstile CAPTCHA to Contact Form 7 using [cf7sr-recaptcha], [cf7sr-hcaptcha] or [cf7sr-turnstile] shortcode"
+msgstr "Add reCAPTCHA V2, hCAPTCHA or Cloudflare Turnstile CAPTCHA to Contact Form 7 using [cf7sr-recaptcha], [cf7sr-hcaptcha] or [cf7sr-turnstile] shortcode"
+
+#. Author of the plugin
+#: contact-form-7-simple-recaptcha.php
+msgid "247wd"
+msgstr "247wd"
+
+#: includes/admin-insights.php:40
+msgid "By using this tag, you are collecting User IP and Browser data. Make sure to update your Privacy Policy."
+msgstr "By using this tag, you are collecting User IP and Browser data. Make sure to update your Privacy Policy."
+
+#: includes/admin-hcaptcha.php:86
+msgid "Default size of hCaptcha is normal, for compact size use shortcode:"
+msgstr "Default size of hCaptcha is normal, for compact size use shortcode:"
+
+#: contact-form-7-simple-recaptcha.php:134
+msgid "Contact Form 7 Captcha updated:"
+msgstr "Contact Form 7 Captcha updated:"
+
+#: contact-form-7-simple-recaptcha.php:62
+msgid "Contact Form 7 Captcha error: Files are missing. Please reinstall the plugin."
+msgstr "Contact Form 7 Captcha error: Files are missing. Please reinstall the plugin."
+
+#: contact-form-7-simple-recaptcha.php:145
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: contact-form-7-simple-recaptcha.php:193
+msgid "Error: Admin tab file missing."
+msgstr "Error: Admin tab file missing."
+
+#: includes/admin-hcaptcha.php:61
+msgid "Force hCaptcha to render in a specific language."
+msgstr "Force hCaptcha to render in a specific language."
+
+#: includes/admin-insights.php:39
+msgid "GDPR:"
+msgstr "GDPR:"
+
+#: contact-form-7-simple-recaptcha.php:140
+msgid "Get CF7 Captcha Pro →"
+msgstr "Get CF7 Captcha Pro →"
+
+#: includes/admin-hcaptcha.php:42
+msgid "hCaptcha will not work unless you set up the configuration below"
+msgstr "hCaptcha will not work unless you set up the configuration below"
+
+#: includes/admin-insights.php:19
+msgid "How to find it: Go to <strong>Contact</strong> > <strong>Contact Forms</strong>, edit your form, and click on the <strong>\"Mail\"</strong> tab. Paste the tag <strong>[cf7sr-insights]</strong> inside the <strong>\"Message Body\"</strong> field."
+msgstr "How to find it: Go to <strong>Contact</strong> > <strong>Contact Forms</strong>, edit your form, and click on the <strong>\"Mail\"</strong> tab. Paste the tag <strong>[cf7sr-insights]</strong> inside the <strong>\"Message Body\"</strong> field."
+
+#: includes/admin-insights.php:28
+msgid "Important: This tag will <strong>NOT</strong> work if added to the \"Form\" tab. It is only for the email message you receive."
+msgstr "Important: This tag will <strong>NOT</strong> work if added to the \"Form\" tab. It is only for the email message you receive."
+
+#: includes/admin-hcaptcha.php:57 includes/admin-recaptcha-v3.php:65
+#: includes/admin-recaptcha.php:56 includes/admin-turnstile.php:56
+msgid "Invalid captcha"
+msgstr "Invalid captcha"
+
+#: includes/admin-hcaptcha.php:56 includes/admin-recaptcha-v3.php:64
+#: includes/admin-recaptcha.php:55 includes/admin-turnstile.php:55
+msgid "Invalid captcha error message"
+msgstr "Invalid captcha error message"
+
+#. Plugin Name of the plugin
+#: contact-form-7-simple-recaptcha.php
+msgid "LukasApps CAPTCHA tools for Contact Form 7"
+msgstr "LukasApps CAPTCHA tools for Contact Form 7"
+
+#: includes/admin-stats.php:144
+msgid "Mobile-friendly and optimized for performance."
+msgstr "Mobile-friendly and optimized for performance."
+
+#: includes/admin-stats.php:111
+msgid "Multi-Layer Spam Defense"
+msgstr "Multi-Layer Spam Defense"
+
+#: includes/admin-recaptcha-v3.php:41
+msgid "reCaptcha v3 will not work unless you set up the configuration below"
+msgstr "reCaptcha v3 will not work unless you set up the configuration below"
+
+#: includes/admin-recaptcha.php:41
+msgid "reCaptcha will not work unless you set up the configuration below"
+msgstr "reCaptcha will not work unless you set up the configuration below"
+
+#: includes/admin-hcaptcha.php:74 includes/admin-recaptcha-v3.php:68
+#: includes/admin-recaptcha.php:71 includes/admin-turnstile.php:71
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: includes/admin-hcaptcha.php:25 includes/admin-recaptcha-v3.php:25
+#: includes/admin-recaptcha.php:25 includes/admin-turnstile.php:25
+msgid "Settings saved successfully."
+msgstr "Settings saved successfully."
+
+#: includes/admin-insights.php:35
+msgid "The tag will be replaced in your email with: IP Address, Browser, and Operating System of the sender."
+msgstr "The tag will be replaced in your email with: IP Address, Browser, and Operating System of the sender."
+
+#: includes/admin-insights.php:10
+msgid "To receive sender details in your email, you must add <strong>[cf7sr-insights]</strong> directly into the \"Mail\" tab of your Contact Form 7 settings."
+msgstr "To receive sender details in your email, you must add <strong>[cf7sr-insights]</strong> directly into the \"Mail\" tab of your Contact Form 7 settings."
+
+#: contact-form-7-simple-recaptcha.php:160
+msgid "To use <strong>Contact Form 7 Captcha</strong> please install or update <strong>Contact Form 7</strong> plugin as current version is not supported."
+msgstr "To use <strong>Contact Form 7 Captcha</strong> please install or update <strong>Contact Form 7</strong> plugin as current version is not supported."
+
+#: includes/admin-hcaptcha.php:94 includes/admin-recaptcha.php:94
+#: includes/admin-turnstile.php:94
+msgid "You can combine multiple attributes, sample shortcode:"
+msgstr "You can combine multiple attributes, sample shortcode:"
+
+#: includes/admin-hcaptcha.php:100 includes/admin-recaptcha-v3.php:82
+#: includes/admin-recaptcha.php:100 includes/admin-turnstile.php:100
+msgid "Use this link to generate"
+msgstr "Use this link to generate"
+
+#: contact-form-7-simple-recaptcha.php:155
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: includes/admin-turnstile.php:86
+msgid "Default color theme of CAPTCHA is auto, for dark or light theme use shortcode:"
+msgstr "Default colour theme of CAPTCHA is auto, for dark or light theme use shortcode:"
+
+#: includes/admin-hcaptcha.php:90
+msgid "Default color theme of hCaptcha is light, for dark theme use shortcode:"
+msgstr "Default colour theme of hCaptcha is light, for dark theme use shortcode:"
+
+#: includes/admin-recaptcha.php:86
+msgid "Default color theme of reCaptcha is light, for dark theme use shortcode:"
+msgstr "Default colour theme of reCAPTCHA is light, for dark theme use shortcode:"
+
+#: includes/admin-recaptcha.php:83
+msgid "Default size of reCaptcha is normal, for compact size use shortcode:"
+msgstr "Default size of reCAPTCHA is normal, for compact size use shortcode:"
+
+#: includes/admin-recaptcha.php:90
+msgid "Default type of reCaptcha is image, for audio type use shortcode:"
+msgstr "Default type of reCAPTCHA is image, for audio type use shortcode:"
+
+#: includes/admin-recaptcha.php:60
+msgid "Force reCaptcha to render in a specific language. Google auto-detects if unspecified."
+msgstr "Force reCAPTCHA to render in a specific language. Google auto-detects if unspecified."
+
+#: contact-form-7-simple-recaptcha.php:138
+msgid "Upgrade to Pro for 6-layer spam defense and Lead Recovery. Automate with CRM sync, Zapier, and SMS alerts!"
+msgstr "Upgrade to Pro for 6-layer spam defence and Lead Recovery. Automate with CRM sync, Zapier, and SMS alerts!"
+
+#: includes/admin-turnstile.php:77
+msgid "To add Cloudflare Turnstile CAPTCHA to Contact Form 7 form, add <strong>[cf7sr_turnstile]</strong> in your form (preferable above submit button)"
+msgstr "To add Cloudflare Turnstile CAPTCHA to Contact Form 7 form, add <strong>[cf7sr_turnstile]</strong> in your form (preferable above submit button)"
+
+#: includes/admin-hcaptcha.php:80
+msgid "To add hCaptcha to Contact Form 7 form, add <strong>[cf7sr_hcaptcha]</strong> in your form (preferable above submit button)"
+msgstr "To add hCaptcha to Contact Form 7 form, add <strong>[cf7sr_hcaptcha]</strong> in your form (preferable above submit button)"
+
+#: includes/admin-recaptcha.php:77
+msgid "To add reCaptcha to Contact Form 7 form, add <strong>[cf7sr_recaptcha]</strong> in your form (preferable above submit button)"
+msgstr "To add reCAPTCHA to Contact Form 7 form, add <strong>[cf7sr_recaptcha]</strong> in your form (preferable above submit button)"
+
+#: includes/admin-recaptcha-v3.php:74
+msgid "To add reCaptcha V3 to Contact Form 7 form, add <strong>[cf7sr_v3_recaptcha]</strong> in your form."
+msgstr "To add reCAPTCHA V3 to Contact Form 7 form, add <strong>[cf7sr_v3_recaptcha]</strong> in your form."

@@ -1,0 +1,22 @@
+# Secrets / config locale
+wp-config.php
+.env
+*.sql
+*.sql.gz
+
+# Contenu généré ou volumineux
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+wp-content/backup*/
+wp-content/debug.log
+*.log
+
+# Fichiers système / shell
+.bash_logout
+.bashrc
+.profile
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
